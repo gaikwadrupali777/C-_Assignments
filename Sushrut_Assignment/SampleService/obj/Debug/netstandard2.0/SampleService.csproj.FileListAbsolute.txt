@@ -1,0 +1,9 @@
+C:\Users\rupali.gaikwad\Desktop\Sushrut_Assignment\SampleService\bin\Debug\netstandard2.0\SampleService.deps.json
+C:\Users\rupali.gaikwad\Desktop\Sushrut_Assignment\SampleService\bin\Debug\netstandard2.0\SampleService.dll
+C:\Users\rupali.gaikwad\Desktop\Sushrut_Assignment\SampleService\bin\Debug\netstandard2.0\SampleService.pdb
+C:\Users\rupali.gaikwad\Desktop\Sushrut_Assignment\SampleService\obj\Debug\netstandard2.0\SampleService.csprojAssemblyReference.cache
+C:\Users\rupali.gaikwad\Desktop\Sushrut_Assignment\SampleService\obj\Debug\netstandard2.0\SampleService.csproj.CoreCompileInputs.cache
+C:\Users\rupali.gaikwad\Desktop\Sushrut_Assignment\SampleService\obj\Debug\netstandard2.0\SampleService.AssemblyInfoInputs.cache
+C:\Users\rupali.gaikwad\Desktop\Sushrut_Assignment\SampleService\obj\Debug\netstandard2.0\SampleService.AssemblyInfo.cs
+C:\Users\rupali.gaikwad\Desktop\Sushrut_Assignment\SampleService\obj\Debug\netstandard2.0\SampleService.dll
+C:\Users\rupali.gaikwad\Desktop\Sushrut_Assignment\SampleService\obj\Debug\netstandard2.0\SampleService.pdb
