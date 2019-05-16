@@ -1,0 +1,14 @@
+C:\Users\rupali.gaikwad\Desktop\Checkbox&Radiobutoon_assignment\NunitTest\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Users\rupali.gaikwad\Desktop\Checkbox&Radiobutoon_assignment\NunitTest\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Users\rupali.gaikwad\Desktop\Checkbox&Radiobutoon_assignment\NunitTest\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\Users\rupali.gaikwad\Desktop\Checkbox&Radiobutoon_assignment\NunitTest\bin\Debug\netcoreapp2.2\NunitTest.deps.json
+C:\Users\rupali.gaikwad\Desktop\Checkbox&Radiobutoon_assignment\NunitTest\bin\Debug\netcoreapp2.2\NunitTest.runtimeconfig.json
+C:\Users\rupali.gaikwad\Desktop\Checkbox&Radiobutoon_assignment\NunitTest\bin\Debug\netcoreapp2.2\NunitTest.runtimeconfig.dev.json
+C:\Users\rupali.gaikwad\Desktop\Checkbox&Radiobutoon_assignment\NunitTest\bin\Debug\netcoreapp2.2\NunitTest.dll
+C:\Users\rupali.gaikwad\Desktop\Checkbox&Radiobutoon_assignment\NunitTest\bin\Debug\netcoreapp2.2\NunitTest.pdb
+C:\Users\rupali.gaikwad\Desktop\Checkbox&Radiobutoon_assignment\NunitTest\obj\Debug\netcoreapp2.2\NunitTest.csprojAssemblyReference.cache
+C:\Users\rupali.gaikwad\Desktop\Checkbox&Radiobutoon_assignment\NunitTest\obj\Debug\netcoreapp2.2\NunitTest.csproj.CoreCompileInputs.cache
+C:\Users\rupali.gaikwad\Desktop\Checkbox&Radiobutoon_assignment\NunitTest\obj\Debug\netcoreapp2.2\NunitTest.AssemblyInfoInputs.cache
+C:\Users\rupali.gaikwad\Desktop\Checkbox&Radiobutoon_assignment\NunitTest\obj\Debug\netcoreapp2.2\NunitTest.AssemblyInfo.cs
+C:\Users\rupali.gaikwad\Desktop\Checkbox&Radiobutoon_assignment\NunitTest\obj\Debug\netcoreapp2.2\NunitTest.dll
+C:\Users\rupali.gaikwad\Desktop\Checkbox&Radiobutoon_assignment\NunitTest\obj\Debug\netcoreapp2.2\NunitTest.pdb
