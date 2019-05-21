@@ -1,0 +1,11 @@
+C:\Users\rupali.gaikwad\Desktop\C#2Assignments\bin\Debug\netcoreapp2.2\C#2Assignments.deps.json
+C:\Users\rupali.gaikwad\Desktop\C#2Assignments\bin\Debug\netcoreapp2.2\C#2Assignments.runtimeconfig.json
+C:\Users\rupali.gaikwad\Desktop\C#2Assignments\bin\Debug\netcoreapp2.2\C#2Assignments.runtimeconfig.dev.json
+C:\Users\rupali.gaikwad\Desktop\C#2Assignments\bin\Debug\netcoreapp2.2\C#2Assignments.dll
+C:\Users\rupali.gaikwad\Desktop\C#2Assignments\bin\Debug\netcoreapp2.2\C#2Assignments.pdb
+C:\Users\rupali.gaikwad\Desktop\C#2Assignments\obj\Debug\netcoreapp2.2\C#2Assignments.csprojAssemblyReference.cache
+C:\Users\rupali.gaikwad\Desktop\C#2Assignments\obj\Debug\netcoreapp2.2\C#2Assignments.csproj.CoreCompileInputs.cache
+C:\Users\rupali.gaikwad\Desktop\C#2Assignments\obj\Debug\netcoreapp2.2\C#2Assignments.AssemblyInfoInputs.cache
+C:\Users\rupali.gaikwad\Desktop\C#2Assignments\obj\Debug\netcoreapp2.2\C#2Assignments.AssemblyInfo.cs
+C:\Users\rupali.gaikwad\Desktop\C#2Assignments\obj\Debug\netcoreapp2.2\C#2Assignments.dll
+C:\Users\rupali.gaikwad\Desktop\C#2Assignments\obj\Debug\netcoreapp2.2\C#2Assignments.pdb
